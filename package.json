@@ -1,0 +1,27 @@
+{
+  "name": "spectangular",
+  "version": "0.0.1",
+  "description": "a rewrite of angular for learning purposes",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/GeorgiCodes/spectangular.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "georgi",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/GeorgiCodes/spectangular/issues"
+  },
+  "homepage": "https://github.com/GeorgiCodes/spectangular",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jasmine": "^0.6.5",
+    "grunt-testem": "^0.5.2",
+    "jshint": "^2.5.1"
+  }
+}
